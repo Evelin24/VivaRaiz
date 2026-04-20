@@ -2249,7 +2249,7 @@ em contato no fim das pags */
 				}
 
 	.dropotron {
-		background: #222835 url("images/overlay.png");
+		background: #222835 url();
 		background-color: rgba(44, 50, 63, 0.925);
 		padding: 1.25em 1em 1.25em 1em;
 		border-radius: 0.35em;
@@ -2297,18 +2297,12 @@ em contato no fim das pags */
 		
 			}
 
-
-
-
-
 /* Intro */
 
-	#intro {  /* Posição do botão */
+	#intro { 
 		padding-bottom: 8em;
 		text-align: center;
 	}
-
-
 
 		#intro p.style1 {
 			font-size: 1.5em;
@@ -2338,8 +2332,6 @@ em contato no fim das pags */
 			margin: 0 auto;
 		}
 
-/* Features */
-
 	#features header.style1 {
 		padding-bottom: 5em;
 	}
@@ -2347,8 +2339,6 @@ em contato no fim das pags */
 	#features ul.actions {
 		margin-top: 5em;
 	}
-
-
 	
 /* Highlights */
 
@@ -2365,15 +2355,11 @@ em contato no fim das pags */
 
 /* Main */
 
-
 	#container1 {
-		
-		
 		color: rgba(17, 94, 10, 0.5);
 		padding-bottom: 0.1px;
 	}
 
-		
 		#container1 .title {
 			background: #ffffff url("images/overlay.png");
 			color: #000000;
@@ -2388,9 +2374,6 @@ em contato no fim das pags */
 
 
 
-		
-
-
 
 
 
@@ -2399,12 +2382,9 @@ em contato no fim das pags */
 	#footer {
 		background: #fdfbfb url("images/overlay.png");
 		color: #010101;
-		color: rgba(21, 53, 9, 0.5);
+		color: rgba(251, 255, 250, 0.5);
 		padding-bottom: 0.1px;
 	}
-
-	
-
 
 		#footer form input[type="text"],
 		#footer form input[type="email"],
